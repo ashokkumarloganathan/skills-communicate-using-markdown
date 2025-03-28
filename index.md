@@ -7,3 +7,9 @@
 ```Python
 print("hello world")
 ````
+
+# Task List
+
+- [ ] setup github account
+- [ ] create a new repository
+- [ ] create a new project
